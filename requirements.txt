@@ -37,7 +37,7 @@ grpcio==1.10.0
 grpcio-tools==1.4.0
 h5py==2.7.0
 html5lib==0.9999999
-httplib2==0.10.3
+httplib2==0.19.0
 idna==2.6
 instagram-scraper==1.5.26
 intel-openmp==2018.0.0
