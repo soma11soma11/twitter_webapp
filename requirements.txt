@@ -95,7 +95,7 @@ pyandoc==0.0.1
 pycurl==7.43.0
 pyface==5.1.0
 pyglet==1.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 PyMySQL==0.8.0
 PyOpenGL==3.1.0
 pyparsing==2.2.0
