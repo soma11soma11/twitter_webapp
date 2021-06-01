@@ -135,7 +135,7 @@ traits==4.6.0
 traitsui==5.1.0
 twitter==1.17.0
 TwitterFollowBot==2.0.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.3.0
 wcwidth==0.1.7
