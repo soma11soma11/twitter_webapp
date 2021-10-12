@@ -77,7 +77,7 @@ numpy==1.14.1
 oauth==1.0.1
 oauth2==1.9.0.post1
 olefile==0.44
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pandas==0.20.3
 pandocfilters==1.4.1
 patsy==0.4.1
