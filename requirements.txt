@@ -88,7 +88,7 @@ pipenv==11.9.0
 ply==3.10
 pomegranate==0.7.7
 prompt-toolkit==1.0.14
-protobuf==3.5.2
+protobuf==3.15.0
 ptyprocess==0.5.2
 pyacoustid==1.1.5
 pyandoc==0.0.1
